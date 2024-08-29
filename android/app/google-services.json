@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1015846914995",
+    "firebase_url": "https://taskify-281fd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "taskify-281fd",
+    "storage_bucket": "taskify-281fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015846914995:android:f5ec776578c69bbb1999c6",
+        "android_client_info": {
+          "package_name": "com.dfa.flutterchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015846914995-qlu19fk0uglhnkbeg4kd2jlh0ois43po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dfa.flutterchatdemo",
+            "certificate_hash": "3117b21de587c81e32e40726adcbcff436fe5332"
+          }
+        },
+        {
+          "client_id": "1015846914995-vdjjj15odnmtaqmeioa9qtehrmtibdd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtsH-8guq8AOubF5oqBLZlXgagKwvYqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015846914995-vdjjj15odnmtaqmeioa9qtehrmtibdd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015846914995:android:5673ba331fbd339c1999c6",
+        "android_client_info": {
+          "package_name": "io.pranawww.taskify.taskify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015846914995-64dmel2lu8q8u2p4h27u2nslqjk9r7pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.pranawww.taskify.taskify",
+            "certificate_hash": "df7b5afd6df7348a3f6217819dc63a2b7190d2a0"
+          }
+        },
+        {
+          "client_id": "1015846914995-vdjjj15odnmtaqmeioa9qtehrmtibdd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtsH-8guq8AOubF5oqBLZlXgagKwvYqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015846914995-vdjjj15odnmtaqmeioa9qtehrmtibdd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
